@@ -6,3 +6,6 @@ body {
     padding: 30px;
     line-height: 1.6;
 }
+#ReasoningText {
+    white-space: pre-wrap;
+}
