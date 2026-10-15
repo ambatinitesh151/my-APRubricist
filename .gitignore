@@ -1,0 +1,4 @@
+.env
+.venv/
+flask_venv/
+__pycache__/
